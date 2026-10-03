@@ -4,7 +4,7 @@ cd "$HOME"
 
 echo "Getting file..."
 
-wget https://github.com/olan392/clashbound/Clashbound-0.1.0.tar.gz
+wget -q https://github.com/olan392/clashbound/Clashbound-0.1.0.tar.gz
 
 echo "Extracting file..."
 
